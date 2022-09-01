@@ -1,0 +1,12 @@
+
+body {
+    background: #e4e4e4;
+    border: 2px solid pink;
+    text-align: center;
+}
+
+.pile {
+    margin: 20px auto 0 auto;
+    border: 10px solid aqua;
+    width: 300px;
+}
